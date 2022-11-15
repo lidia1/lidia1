@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **: lidjamk@gmail.com**
 
-- ⚡ Fun fact **: I am a competitive kickboxer.**
+- ⚡ Fun fact **: On my free time i do kickboxing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
