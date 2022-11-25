@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/976984/screenshots/4202707/graph.gif)
+
 
 <h1 align="center">Hi 👋, I'm Lidia</h1>
 <h3 align="center">A passionate Data Scientist from Albania</h3>
